@@ -14,7 +14,7 @@ body {
   justify-content: center;
   padding: 0 10px;
   min-height: 100vh;
-  background: #5372F0;
+  background: #8953F0;
 }
 
 .container {
@@ -38,7 +38,7 @@ body {
 
 .text-input .to-text {
   border-radius: 0px;
-  border-left: 1px solid #ccc;
+  border-left: 1px solid #CCCCCC;
 }
 
 .text-input textarea {
@@ -54,7 +54,7 @@ body {
 }
 
 .text-input textarea::placeholder {
-  color: #b7b6b6;
+  color: #C7B9CE;
 }
 
 .controls,
@@ -124,7 +124,7 @@ li,
 .controls .row select::-webkit-scrollbar-thumb {
   background: #999;
   border-radius: 8px;
-  border-right: 2px solid #ffffff;
+  border-right: 2px solid #FFFFFF;
 }
 
 .controls .exchange {
@@ -148,7 +148,7 @@ li,
   margin-top: 20px;
   font-size: 17px;
   border-radius: 5px;
-  background: #5372F0;
+  background: #9C40FA;
 }
 
 @media (max-width: 660px) {
@@ -189,8 +189,8 @@ li,
 
 .f {
   text-align: center;
-  color: lightblue;
-  border-color: lightblue;
+  color: #B579F3;
+  border-color: #C8A5EC;
   border-style: solid;
 }
 

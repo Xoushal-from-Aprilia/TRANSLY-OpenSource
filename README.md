@@ -7,7 +7,9 @@ TRANSLY è un progetto totalmente italiano e Open-Source con lo scopo di aiutare
 Per installare TRANSLY esegui i seguenti comandi su termux:
 
 ###cd sdcard && mkdir TRANSLY
+<br>
 ###cd TRANSLY
+<br>
 ### git clone https://github.com/Xoushal-fromAprilia/TRANSLY-OpenSource.git
 
 

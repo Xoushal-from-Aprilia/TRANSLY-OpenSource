@@ -16,7 +16,7 @@ Per installare TRANSLY esegui i seguenti comandi su termux:
 ### • cd TRANSLY
 ```
 ```bash
-### • git clone https://github.com/Xoushal-fromAprilia/TRANSLY-OpenSource.g"it
+### • git clone https://github.com/Xoushal-fromAprilia/TRANSLY-OpenSource.git
 ```
 
  `𝐔𝐒𝐀 𝐈𝐋 𝐁𝐎𝐓𝐓𝐎𝐍𝐄 𝐏𝐄𝐑 𝐄𝐒𝐄𝐆𝐔𝐈𝐑𝐄 𝐈𝐋 𝐅𝐎𝐑𝐊` 

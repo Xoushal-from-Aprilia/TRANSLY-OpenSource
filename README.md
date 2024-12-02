@@ -25,3 +25,6 @@ Per installare TRANSLY esegui i seguenti comandi su termux:
  
 
 ![App UI](/20241128_091206_0000.png)
+
+
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
